@@ -1,0 +1,19 @@
+nav ul{
+    display: flex;
+}
+nav ul li{
+    
+    list-style: none;
+}
+nav ul li a{
+    text-decoration: none;
+    margin-right: 10px;
+    color: tomato;
+    
+    padding: 5px 15px;
+
+}
+nav ul li a:hover{
+    background-color: violet;
+    color: white;
+}
